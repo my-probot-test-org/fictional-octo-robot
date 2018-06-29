@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "fictional-octo-robot",
+  "version": "1.0.0",
+  "description": "My first probot test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/my-probot-test-org/fictional-octo-robot.git"
+  },
+  "author": "James M. Greene <james.m.greene@gmail.com> (https://jamesmgreene.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/my-probot-test-org/fictional-octo-robot/issues"
+  },
+  "homepage": "https://github.com/my-probot-test-org/fictional-octo-robot#readme"
+}
