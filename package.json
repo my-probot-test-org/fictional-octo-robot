@@ -5,7 +5,7 @@
   "description": "My first probot test repo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/my-probot-test-org/fictional-octo-robot/issues"
   },
-  "homepage": "https://github.com/my-probot-test-org/fictional-octo-robot#readme"
+  "homepage": "https://github.com/my-probot-test-org/fictional-octo-robot#readme",
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
 }
